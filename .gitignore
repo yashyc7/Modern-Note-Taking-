@@ -1,1 +1,7 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
 notes.db
+*.exe
